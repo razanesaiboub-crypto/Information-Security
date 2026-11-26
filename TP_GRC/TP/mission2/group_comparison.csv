@@ -1,0 +1,3 @@
+group,total_requests,third_party_requests,tracker_matches,distinct_third_party_domains,total_cookies,median_cookie_lifetime_days,max_cookie_lifetime_days
+less_popular,211.0,115.5,31.5,12.0,11.0,272.49994395280396,399.99994271626076
+popular,40.0,32.0,2.0,2.0,6.0,179.99993572013938,399.99993290218765

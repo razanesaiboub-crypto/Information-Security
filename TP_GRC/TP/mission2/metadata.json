@@ -1,0 +1,13 @@
+{
+  "tracker_source": "https://raw.githubusercontent.com/disconnectme/disconnect-tracking-protection/master/services.json",
+  "tracker_snapshot_saved_at": "2026-11-26T09:58:40.558340+00:00",
+  "tracker_sha256": "de153048114393ef0c86635a861a31da7a5a548412a0b62634219517a3ec0eeb",
+  "tracker_domain_count": 4472,
+  "tracker_rule": "Third-party domain match; exclude Content-only matches; all-category matches also exported",
+  "ranking_id": "Unknown (original snapshot not supplied)",
+  "wait_ms": 5000,
+  "browser_context": "Playwright default fresh context; no login or interaction",
+  "party_rule": "Final top-level registrable domain, original requested domain retained",
+  "cookie_lifetime": "Remaining lifetime at inventory snapshot",
+  "privacy": "Query and body values omitted; long path segments masked; inspect exports before sharing"
+}

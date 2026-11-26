@@ -1,0 +1,22 @@
+{
+    "website": "https://example.com",
+    "audit_date": "2026-11-26T09:08:05.563150+00:00",
+    "total_requests": 2,
+    "first_party_requests": 2,
+    "third_party_requests": 0,
+    "requests": [
+        {
+            "url": "https://example.com/",
+            "method": "GET",
+            "domain": "example.com",
+            "type": "First-party"
+        },
+        {
+            "url": "https://example.com/s.js",
+            "method": "GET",
+            "domain": "example.com",
+            "type": "First-party"
+        }
+    ],
+    "cookies": []
+}
